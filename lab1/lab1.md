@@ -19,18 +19,18 @@
 ### Вам необходимо заполнить гугл форму, приложив свою Gmail почту, чтобы вам выдали доступы к Google Cloud.
 Сделано
 
-### Зайдите в вкладку IAM, создайте service account с ролью Storage Admin.
+### Зашла в вкладку IAM, создала service account с ролью Storage Admin, чтобы работать с виртуальной машиной. Использовала Storage admin, чтобы получить полный контроль над сегментами, папками, управляемыми папками и объектами.
 ![image](https://github.com/user-attachments/assets/a586ef43-162e-444d-9fa3-d09cfe92c25e)
 
-### Создать минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot.
+### Создала минимальный compute engine (виртуальную машину) с Machine type e2-micro в режиме spot.
 ![image](https://github.com/user-attachments/assets/65e7b924-da5e-4cb3-a74e-4eea9cff3aa3)
 
-### С помощью утилиты gsutils найдите бакет lab1-bucket-itmo и скопируйте 3 файла в локальную папку на VM. Используя команду ls -lah отобразите что эти файлы хранятся у вас на VM.
+### С помощью утилиты gsutils найшла бакет lab1-bucket-itmo и скопировала 3 файла в локальную папку на VM. Использовала команду ls -lah и отобразила что эти файлы хранятся у меня на VM.
 
 ![image](https://github.com/user-attachments/assets/8e90f4dc-938b-4463-a769-063a4dc34157)
 
 
-### Поменяйте права доступа для вашего service account с Storage Admin на Compute Viewer, попробуйте повторить пункт с копированием данных, сделать выводы.
+### Поменяля права доступа для service account с Storage Admin на Compute Viewer, попробовала повторить пункт с копированием данных.
 
 ![image](https://github.com/user-attachments/assets/1115cd73-f612-44b3-8584-f3b709c54eea)
 ![image](https://github.com/user-attachments/assets/9566d25d-4a3d-44bf-bfd7-92e277ffbe26)
