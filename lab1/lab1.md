@@ -6,7 +6,7 @@
 #### Author: Ivanova Tatyana Aleksandrovna
 #### Lab: Lab1
 #### Date of create: 21.10.2024
-#### Date of finished: 
+#### Date of finished: 22.10.2024
 
 ## Описание
 Это первая лабораторная работа "Обзор Google Cloud и исследование основных сервисов."
