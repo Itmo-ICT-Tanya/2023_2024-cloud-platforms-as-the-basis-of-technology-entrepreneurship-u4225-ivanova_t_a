@@ -6,7 +6,7 @@
 #### Author: Ivanova Tatyana Aleksandrovna
 #### Lab: Lab3
 #### Date of create: 29.10.2024
-#### Date of finished: 
+#### Date of finished: 29.10.2024
 
 ## Описание
 Это третья лабораторная работа Исследование Cloud Storage
